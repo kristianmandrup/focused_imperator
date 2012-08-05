@@ -1,8 +1,12 @@
-= focused_imperator
+# Focused Imperator
 
-Description goes here.
+Focused Imperator, attempts to integrate [focused controller](https://github.com/jonleighton/focused_controller) and [imperator](https://github.com/karmajunkie/imperator) in a nice fashion, especially for creating REST actions in a Focused Controller. 
 
-== Contributing to focused_imperator
+## Usage
+
+TODO
+
+## Contributing to focused_imperator
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.

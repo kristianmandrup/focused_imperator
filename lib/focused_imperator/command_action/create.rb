@@ -1,6 +1,6 @@
-require 'focused_imperator/command_action'
+require 'focused_imperator/command_action/base'
 
-class FocusedImperator::CreateCommandAction < CommandAction
+class FocusedImperator::CommandAction::Create < CommandAction
   protected
 
   delegate :invalid_path, :to => :new_path
