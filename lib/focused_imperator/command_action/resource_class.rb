@@ -13,7 +13,6 @@ class FocusedImperator::CommandAction < FocusedAction
     def resource_class_name
       resource_class.to_s.underscore
     end
-  end
 
     # extracted from https://github.com/josevalim/inherited_resources/blob/master/lib/inherited_resources/class_methods.rb
     def resource_class
